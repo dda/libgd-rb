@@ -1,0 +1,2 @@
+This RB class + Module give access to LibGD's drawing facilities. Sample code is provided, including code to retrieve the name of a font in a .TTF file.
+A pre-compiled i386 version of libgd is provided for convenience.
